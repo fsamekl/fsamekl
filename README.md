@@ -22,11 +22,8 @@ I'm passionate about building software that is clean, practical, and enjoyable t
 My current interests include:
 
 - Artificial Intelligence
-- Backend Development
 - Linux
 - Open Source
-
-I enjoy learning new technologies, building side projects, and turning ideas into real products.
 
 ---
 
